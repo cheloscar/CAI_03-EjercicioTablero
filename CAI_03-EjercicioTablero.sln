@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.20
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI_03-EjercicioTableroV2", "CAI_03-EjercicioTableroV2\CAI_03-EjercicioTableroV2.csproj", "{9C52F02E-EBD2-470F-AAF2-C74FE2F71896}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI_03-EjercicioTablero", "CAI_03-EjercicioTablero\CAI_03-EjercicioTablero.csproj", "{9C52F02E-EBD2-470F-AAF2-C74FE2F71896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,5 +21,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A7F7A25-AB2A-40A2-B184-C5C3577F94BE}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = ../CAI_03-EjercicioTablero
 	EndGlobalSection
 EndGlobal

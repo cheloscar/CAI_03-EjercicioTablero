@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
     <ProjectGuid>{9C52F02E-EBD2-470F-AAF2-C74FE2F71896}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CAI_03EjercicioTableroV2</RootNamespace>
-    <AssemblyName>CAI_03-EjercicioTableroV2</AssemblyName>
+    <RootNamespace>CAI_03EjercicioTablero</RootNamespace>
+    <AssemblyName>CAI_03-EjercicioTablero</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">

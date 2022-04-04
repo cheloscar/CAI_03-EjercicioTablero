@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CAI_03EjercicioTableroV2
+namespace CAI_03EjercicioTablero
 {
     class MainClass
     {
